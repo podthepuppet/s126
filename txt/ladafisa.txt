@@ -6,12 +6,12 @@ ladafisa (
 		ilusioria = ??;
 		invocacion = ??;
 		)
-	posicion = ?? ;
-	faccion = ??;
-	rama = ??;
+	posicion = ?? ; // apoyo, tanque, atacante delantero
+	faccion = ??; // guardiareal, soldadoblanco, templar, terrorista, policia, civil
+	rama = ??; // clerigo, humanista, mekk, boinablanca, boinanegra, boinaroja, boinaazul, sacerdote, acolito, aprendiz, espia, bomber, attackclass, detective, mixattack, civil
 //caracteristicas basicas
-	clase = undead;
+	clase = undead; // humano, angel, demonio, deidad, undead
 	edad = ??;
-	sexo = femenino;
+	sexo = femenino; //femenino, masculino
 )
 
