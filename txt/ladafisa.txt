@@ -7,8 +7,8 @@ ladafisa (
 		invocacion = ??;
 		)
 	posicion = ?? ; // apoyo, tanque, atacante delantero
-	faccion = ??; // guardiareal, soldadoblanco, templar, terrorista, policia, civil
-	rama = ??; // clerigo, humanista, mekk, boinablanca, boinanegra, boinaroja, boinaazul, sacerdote, acolito, aprendiz, espia, bomber, attackclass, detective, mixattack, civil
+	faccion = civil; // guardiareal, soldadoblanco, templar, terrorista, policia, civil
+	rama = civil; // clerigo, humanista, mekk, boinablanca, boinanegra, boinaroja, boinaazul, sacerdote, acolito, aprendiz, espia, bomber, attackclass, detective, mixattack, civil
 //caracteristicas basicas
 	clase = undead; // humano, angel, demonio, deidad, undead, caido
 	edad = ??;
@@ -16,6 +16,9 @@ ladafisa (
 //contexto
 	historia (
 		origen = humana que luego de morir entra en contacto con un agente quimico que la revive con habilidades regenerativas que dependen de el % de dicho quimico en su sangre;
-		
+		etapas (
+			etapa-1 = desperto y comenzo a vagar sin memoria ;
+			etapa-2 = ;
+			
 )
 
