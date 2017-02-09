@@ -19,7 +19,7 @@ ladafisa (
 		etapas (
 			etapa-1 = desperto y comenzo a vagar sin memoria ;
 			etapa-2 = la rescata una mujer mayor y la lleva a casa con su familia. ladafisa viste arapos, el cabello y piel descuidados y lleva un grillete en el cuello con las iniciales "LADAFISA" nombre por el cual comienzan a llamarle;
-			etapa-3 = 
+			etapa-3 = la mujer mayor que rescato a ladafisa tenia varios hijos de los cuales solo 1 vivia con ella y esta a su vez tenia un hijo de 3 años, el que se acerca a la desmemoriada ladafisa y la ve como alguien con quien compartir por razones en las que no indagaremos, esto desata los celos de la hija mujer mayor quien lastima a ladafisa demostrandole su habilidad regenerativa y ladafisa defendiendose la mata;
 			
 )
 
