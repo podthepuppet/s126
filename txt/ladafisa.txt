@@ -9,7 +9,9 @@ ladafisa (
 	posicion = ?? ;
 	faccion = ??;
 	rama = ??;
+//caracteristicas basicas
 	clase = undead;
+	edad = ??;
+	sexo = femenino;
 )
-
 
