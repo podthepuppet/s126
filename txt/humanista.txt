@@ -1,0 +1,14 @@
+tomas (
+	habilidad = disfraz;
+	magia (
+		curativa = bajo;
+		ataque = bajo;
+		ilusioria = medio;
+		invocacion = ??;
+		)
+	posicion = apoyo;
+	faccion = GuardiaReal;
+	rama = humanista;
+	clase = humano;
+)
+

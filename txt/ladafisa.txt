@@ -1,0 +1,15 @@
+ladafisa (
+	habilidad = ??;
+	magia (
+		curativa = ??;
+		ataque = ??;
+		ilusioria = ??;
+		invocacion = ??;
+		)
+	posicion = ?? ;
+	faccion = ??;
+	rama = ??;
+	clase = undead;
+)
+
+
