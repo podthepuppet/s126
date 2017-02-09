@@ -18,7 +18,7 @@ ladafisa (
 		origen = humana que luego de morir entra en contacto con un agente quimico que la revive con habilidades regenerativas que dependen de el % de dicho quimico en su sangre;
 		etapas (
 			etapa-1 = desperto y comenzo a vagar sin memoria ;
-			etapa-2 = la rescata una mujer mayor y la lleva a casa con su familia. ladafisa viste arapos, el cabello y piel descuidados y lleva un grillete en el cuello con las iniciales "LADAFISA" nombre por el cual ocmienzan a llamarle;
+			etapa-2 = la rescata una mujer mayor y la lleva a casa con su familia. ladafisa viste arapos, el cabello y piel descuidados y lleva un grillete en el cuello con las iniciales "LADAFISA" nombre por el cual comienzan a llamarle;
 			etapa-3 = 
 			
 )
