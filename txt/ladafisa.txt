@@ -1,5 +1,5 @@
 ladafisa (
-	habilidad = ??;
+	habilidad = autoregeneracion;
 	magia (
 		curativa = ??;
 		ataque = ??;
@@ -10,8 +10,12 @@ ladafisa (
 	faccion = ??; // guardiareal, soldadoblanco, templar, terrorista, policia, civil
 	rama = ??; // clerigo, humanista, mekk, boinablanca, boinanegra, boinaroja, boinaazul, sacerdote, acolito, aprendiz, espia, bomber, attackclass, detective, mixattack, civil
 //caracteristicas basicas
-	clase = undead; // humano, angel, demonio, deidad, undead
+	clase = undead; // humano, angel, demonio, deidad, undead, caido
 	edad = ??;
-	sexo = femenino; //femenino, masculino
+	sexo = femenino; // femenino, masculino
+//contexto
+	historia (
+		origen = humana que luego de morir entra en contacto con un agente quimico que la revive con habilidades regenerativas que dependen de el % de dicho quimico en su sangre;
+		
 )
 
