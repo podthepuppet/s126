@@ -1,0 +1,20 @@
+scripts de diseño para serie de "Ladafisa ver' universo de GS"
+
+1. contexto de inicio de historia
+		la historia inicia paralela a la misión de menos indicado en el país de las arenas.
+2. Personajes implicados
+		el personaje encargado de co-protagonizar historia es Schneider de la Guardia Real, este dirige la central de investigación de la orden de la guardia real de WSC luego de la gran guerra civil que azota la región años antes en los hechos del despertar de AOI.
+3. personajes:
+	1. miembros del culto del ánima. miembros de un subgrupo de superviviente de los "Ecchi-hunters" que escaparon a la eliminación al final de la guerra civil, estos se refugian en el área industrial y se centran en intentar generar un "Apóstol Artificial" para cumplir los designios de su anterior líder, el padre de AOI quien intenta usar a su hija para controlar el flujo de magia y llevar el mundo a una era de barbarie animal y descontrol. estos son dirigidos por un miembro de la casta del temple desconocido desde las sombras, dentro de sus experimentos logran crear exitosamente 7 GER, de éstos 3 logran escapar.
+	2. schneider. director de la central de investigación de la guardia real, algo así como un servicio secreto de la guardia real cuyo objetivo es investigar y evitar la formación de grupos subversivos como los ecchi-hunters que casi provocan el fin de las castas de los templos años atrás durante los sucesos de la guerra civil.
+	3. Tomás. Humanista, profesor de La Ciudad Instituto de WSC, sucesor y actual director del culto de "los Humanistas", este a su vez encargado de la central de abastecimiento de víveres de la academia.
+	4. GER1, Alias Ladafisa. encontrada dentro de un complejo de laboratorios clandestinos del área industrial de WSC abandonados supuestamente de forma posterior a la gran guerra civil, esta sin memoria y rumbo, su nombre es derivado de una placa que lleva anexa a un grillete colocado en su brazo derecho.
+	5. GER2, Alias ROSE. encontrada fuera de los limites de la Ciudad Instituto por el Humanista, esta es una de las supervivientes del experimento de los miembros del culto del anima y al igual que GER1 tiene su memoria borrada, pero, esta posee 2 cosas en su mente, la primera que su nombre es "ROSE" y la segunda que debe encontrar a alguien que se hace llamar "el cerrajero".
+	6. GER3, Alias Samael. tercero de los GER artificiales que lograron escapar de los laboratorios clandestinos del culto del anima, es un "Prometeo" cuyos únicos 2 recuerdos son el nombre de "Supra AOI" y que al igual que GER2 tiene que encontrar a alguien que se hace llamar "el cerrajero"
+	7. el cerrajero. personaje que se dice tiene las llaves para reformar el universo, de origen y naturaleza desconocida, pero, que es buscado por los GER artificiales con fines desconocidos.
+	8. Magdala. Miembro de las fuerzas especiales de la policía de investigación y nexo entre las fuerzas armadas y la guardia real, cumple funciones de apoyo y combate al lado de Schneider y es quien recibe sus informes de misión.
+4. serialización básica. capítulos de 30 minutos con 1 corte a la mitad.
+	1. semana 1. Policía secreta. introducción a la historia y presentación del contexto y la investigación de Schneider, el capitulo concluye con Schneider despertando a GER1.
+	2. semana 2. Artificial. Presentación de GER1 y misión de Escape desde el laboratorio clandestino, hasta la llegada de ésta y schneider a la base de la guardia Real donde se presenta al "Humanista"
+	3. semana 3. Recuerdos. "el humanista" recuerda su primer contacto con una chica al ver a GER1 y como aquel encuentro lo convirtió en el "humanista", esta narración se contrapone con una conversación telefónica de Schneider con un personaje femenino que recibe un "informe" de la misión de sacar a GER1 del laboratorio clandestino. finalmente se ve como GER1 y Schneider son recogidos por una tercera persona que cierra el ciclo.
+	4. 

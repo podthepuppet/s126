@@ -1,0 +1,14 @@
+S126
+(*)descripción:
+es un canal compartido para generar contenido de distintos matices, en formato audiovisual.
+(*)estructura:
+contará con una parrilla de programación semanal de diversos colaboradores, pensada en general contenido de forma continua durante tiempo indefinido.
+(*) requisitos técnicos:
+(**) para realizar contenido:
+equipo informático, ya sea computador, smartphone, tablet o similar
+cámara con capacidad de captura de vídeo
+capacidad de generar y gestionar contenido.
+(**) para transmitir contenido:
+conexión a internet estable
+equipo con capacidad de subir contenido a YouTube
+

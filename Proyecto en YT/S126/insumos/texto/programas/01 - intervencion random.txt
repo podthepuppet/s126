@@ -1,0 +1,14 @@
+intervención random:
+tipo de programa: noticiero
+fecha de transmisión: semanal
+duración: 30 minutos.
+contará con 5 bloques de 5 minutos, más 2 bloques de 2:30 a modo de presentación y despedida
+(***) estructura bloques:
+presentación: 2:30 minutos : presentador del mes da un resumen de los bloques que aparecerán en el podcast de la semana.
+bloque noticia de la semana: 5 minutos : se desarrolla noticia de contingencia de la semana
+bloque artístico: 5 minutos : se hace un clip dedicado al arte por semana.
+Bloque “conociendo a...”: 5 minutos : entrevista a un personaje en 5 minutos,
+bloque “la ruta...” : 5 minutos : descripción de un lugar de interés semanal en 5 minutos.
+Bloque deportivo: 5 minutos : el acontecer deportivo que a nuestra línea editorial le importa, en 5 minutos.
+Despedida: 2:30 minutos : presentador del mes da un resumen de las notas y despide el programa.
+

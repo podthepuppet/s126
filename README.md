@@ -17,5 +17,7 @@ los universos actualmente en trabajo de reestructurar y transcribir son:
 
 
 se contará con carpetas de:
-- ##### IMG para el trabajo ##### de imágenes
-- 
+- ##### IMG para el trabajo de imágenes
+- ##### TXT para el trabajo de insumos y anotaciones en texto plano
+- ##### PS-PDF para archivos en terminado para paso a impresión
+- ##### PRODUCCION como archivo de publicaciones por semana/mes a partir de septiembre de 2017.
