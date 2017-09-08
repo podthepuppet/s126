@@ -29,6 +29,7 @@ Tomás siendo un estudiante promedio llegado del área rural que no presenta apt
 ####Diseño:
 
 #####Base:
+
 ![Tomás en forma base](../../../../pjs/humanista-tomas-base.png)
 
 #####Agente (Teacher Mode):
