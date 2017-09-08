@@ -38,6 +38,7 @@ Tomás siendo un estudiante promedio llegado del área rural que no presenta apt
 
 #### Gamber (Physic Mode): 
 ![Tomás en forma Gamber](./Gamber.png)
+![Tomás en forma Gamber sin Máscara](./gamber-sin-mascara.png)
  
 #### Conde Demonio (Magical Mode):
 ![Tomás en forma Gamber](./conde-demonio.png)
