@@ -4,6 +4,7 @@
 Gummy
 
 ### Nombre:
+Javiera
 
 ### Raza:
 Humana
@@ -30,5 +31,10 @@ Esposa del Humanista y encargada de los cursos cercanos al egreso de la academia
 
 #### Base:
 
+#### Teacher Mode:
 
+#### Guardia Civil Mode:
 
+#### Uniforme de Cocina:
+
+#### Forma Hada:
