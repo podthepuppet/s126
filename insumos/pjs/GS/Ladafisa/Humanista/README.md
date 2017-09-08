@@ -31,13 +31,13 @@ Tomás siendo un estudiante promedio llegado del área rural que no presenta apt
 
 ####Base:
 
-![Tomás en forma base](../../../../pjs/humanista-tomas-base.png)
+![Tomás en forma base](./Tomas.png)
 
 ####Agente (Teacher Mode):
-![Tomás en forma Agente](./agente.png)
+![Tomás en forma Agente](./Agente.png)
 
 ####Gamber (Physic Mode): 
-
+![Tomás en forma base](../../../../pjs/humanista-tomas-base.png)
  
 ####Conde Demonio (Magical Mode):
 
