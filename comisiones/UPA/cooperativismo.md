@@ -1,4 +1,4 @@
-RAZONES COOPERATIVAS:
+agon ball RAZONES COOPERATIVAS:
 por y para otra forma económica
 
 1. las cooperativas son empresas democráticas con distribución económica equitativa entre socios. un miembro, un voto.

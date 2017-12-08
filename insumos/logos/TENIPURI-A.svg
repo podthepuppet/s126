@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="131.58052mm"
+   height="53.294464mm"
+   viewBox="0 0 131.58052 53.294464"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="TENIPURI-A.svg"
+   inkscape:export-filename="/home/delphos/WIP/s126/insumos/logos/TENIPURI-A.png"
+   inkscape:export-xdpi="154.41754"
+   inkscape:export-ydpi="154.41754">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="209.57633"
+     inkscape:cy="8.3932914"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     inkscape:window-width="1366"
+     inkscape:window-height="723"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-6.9070591,-92.205671)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.69429588px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       x="17.311134"
+       y="116.94513"
+       id="text3701"
+       transform="scale(0.99123227,1.0088453)"><tspan
+         sodipodi:role="line"
+         id="tspan3699"
+         x="17.311134"
+         y="116.94513"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';letter-spacing:0.58472914px;stroke:#b3b3b3;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill">TENIPURI</tspan></text>
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:1.98232198;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
+       id="rect4512"
+       width="109.5982"
+       height="12.579346"
+       x="17.89822"
+       y="121.92963" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.34362984px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38359076"
+       x="32.726631"
+       y="122.35892"
+       id="text3705"
+       transform="scale(0.931992,1.0729706)"><tspan
+         sodipodi:role="line"
+         id="tspan3703"
+         x="32.726631"
+         y="122.35892"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Visitor TT1 BRK';-inkscape-font-specification:'Visitor TT1 BRK';fill:#aa0000;stroke-width:0.38359076">FANS CHILE</tspan></text>
+  </g>
+</svg>
